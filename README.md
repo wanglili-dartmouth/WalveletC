@@ -5,15 +5,19 @@
 Download the four datasets from : https://snap.stanford.edu/data/#disjointgraphs
 
 Running the graph classification test:
+
 python test.py
 
 Running the parameter sensitivity test:
+
 python sensitivity.py
 
 
 ## Code reference:
 Our code is built on top of
+
 https://github.com/snap-stanford/graphwave
+
 https://github.com/benedekrozemberczki/karateclub/
 
 
