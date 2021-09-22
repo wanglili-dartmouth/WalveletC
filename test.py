@@ -24,7 +24,7 @@ def test(labels,embedding_dict):
    
             
 sample = open("results"+'.out', 'w') 
-for dataset in ["deezer","git","twitch","reddit"]: 
+for dataset in ["git","deezer","twitch","reddit"]: 
     graphs = load_graphs(dataset+"_edges.json")
     labels = pd.read_csv(dataset+'_target.csv', index_col=0)
     labels=labels.values
