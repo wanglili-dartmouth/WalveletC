@@ -29,5 +29,6 @@ If you find this useful, please use the following citation
   title={Graph Embedding via Diffusion Wavelets Based Node Feature Distribution Characterization},
   author={Wang, Lili and Huang, Chenghan and Ma, Weicheng and Cao, Xinyuan and Vosoughi, Soroush},
   booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
+  year={2021}
 
 }
